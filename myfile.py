@@ -21,6 +21,8 @@ print("6% tax: $", (tax))
 print("-----")
 print("total: $ %.2f" %(total_cost + tax))
 print("************************************")
+print()
+print("Thank you for stopping by! Have a great day.")
 #I am having trouble with the tax part, not sure if the tax is correct.
 
 
