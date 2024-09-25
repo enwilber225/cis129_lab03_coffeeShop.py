@@ -56,3 +56,5 @@ print()
 
 actTotal = total + totalTaxed
 print("Total: $", actTotal) # In these last two lines, I added total and the tax of total to make a new variblae named actTotal. I then printed that for the full price.
+
+print("Thank you for your support!")
